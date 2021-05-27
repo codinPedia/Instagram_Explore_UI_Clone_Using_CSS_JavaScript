@@ -1,1 +1,1 @@
-# Instagram Explore UI Redesigning Using CSS &amp; JavaScript
+# Instagram Explore UI Clone Using CSS &amp; JavaScript
